@@ -137,4 +137,3 @@
 
 40. **What is the `with` statement used for?**  
    - For resource management, such as handling files efficiently.  
-]
