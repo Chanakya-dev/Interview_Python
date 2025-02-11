@@ -1,7 +1,3 @@
-### **📌 Top 30 Git & GitHub Interview Questions with Answers**  
-
----
-
 ### **🔹 Basic Git Questions**  
 
 #### **1. What is Git, and how does it work?**  
