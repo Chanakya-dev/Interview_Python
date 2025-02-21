@@ -132,8 +132,5 @@
 38. **What is a virtual environment in Python?**  
    - An isolated environment for managing dependencies using `venv`.  
 
-39. **What is monkey patching in Python?**  
-   - Dynamically modifying a module or class at runtime.  
-
-40. **What is the `with` statement used for?**  
+39. **What is the `with` statement used for?**  
    - For resource management, such as handling files efficiently.  
