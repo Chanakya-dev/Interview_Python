@@ -1,5 +1,3 @@
-**JavaScript Interview Questions**
-
 ### **Basic JavaScript Concepts**
 
 #### **1. What are the different data types in JavaScript?**
